@@ -36,7 +36,7 @@ A beginner and Taiwan-specific exploration of how the AI industry fits together 
 
 **Main Players:** Google, Amazon, Microsoft, Meta
 
-> **Reference chart:** "AI chip ownership over time" (Epoch AI) shows the share of cumulative compute capacity by owner (Google, Microsoft, Meta, Amazon, China, Oracle, xAI, Other) from 2024 Q1 through 2025 Q4.
+![gpu owners](gpu-owners.jpeg)
 
 ### 3. Hardware Manufacturing (Where Taiwan Shines 🇹🇼)
 
@@ -65,7 +65,7 @@ Components integrated into a server:
 
 **Main Players:** Foxconn, Wistron, Quanta, Compal, Inventec
 
-> **Reference diagram:** "The Supply Chain Inside One Nvidia H200" (Veridion) — 31 suppliers across 4 tiers, weighted by proportional spend per chip, feeding 5 equipment makers and 3 substrate assemblers, which in turn serve 5 fabricators producing the GPU die, CoWoS packaging, and HBM3e memory stacks. Notable suppliers span Japan, Germany, the US, Switzerland, France/UK, South Korea, the UK, and Taiwan (TSMC, Unimicron).
+![H200 supply chain](H200-supply-chain.jpeg)
 
 ## Homework
 
