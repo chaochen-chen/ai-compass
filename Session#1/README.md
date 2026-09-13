@@ -1,4 +1,3 @@
-## AI Supply Chain Summary
 # AI Supply Chain
 
 A beginner and Taiwan-specific exploration of how the AI industry fits together — from models down to the hardware that powers them.
