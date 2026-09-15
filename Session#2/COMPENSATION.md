@@ -5,6 +5,9 @@
 > 資料來源: Levels.fyi（自主申報數據，非官方公告）、公司永續報告書、Dcard/Threads/PTT 討論串
 > ⚠️ 這些是「參考區間」，非保證數字。實際 offer 會因職務(SWE vs 製程/硬體)、面談表現、當年股價、匯率而有落差，請以實際 offer 為準。
 
+## TODOs:
+- TSMC 從入職起到領滿澄清
+
 ## 總覽表（工程師職務、台灣）
 
 | 公司 | Level | Base (年薪) | Bonus | Equity | Total Comp (估, 年) | 資料日期 |
